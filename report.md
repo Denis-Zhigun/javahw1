@@ -6,7 +6,7 @@
 #### В результате тестирования выявлены следующие дефекты:
 - [При проверке невалидного ключа проходит валидация](https://github.com/Denis-Zhigun/javahw1/issues/3#issue-776237212)
 - [При проверке валидного ключа возникает ошибка валидации](https://github.com/Denis-Zhigun/javahw1/issues/2#issue-776227051)
-- [Bug report key - 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/Denis-Zhigun/javahw1/issues/3#issue-776237212)
+- [Валидный ключ выдает ошибку валидации](https://github.com/Denis-Zhigun/javahw1/issues/1#issue-776207438)
 
 ## Описание процесса тестирования
 
