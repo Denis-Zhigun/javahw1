@@ -4,7 +4,7 @@
 #### Дата начала тестирования - 30.12.2020. Дата окончания тестирования - 30.12.2020. Было проведено функциональное тестирование приложения KeyValidator. 
 На тестирование затрачено - 2 часа.
 #### В результате тестирования выявлены следующие дефекты:
-- [Bug report key - 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/Denis-Zhigun/javahw1/issues/1#issue-776207438)
+- [Валидный ключ выдает ошибку при его проверке в приложении](https://github.com/Denis-Zhigun/javahw1/issues/1#issue-776207438)
 - [Bug report key - 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/Denis-Zhigun/javahw1/issues/2#issue-776227051)
 - [Bug report key - 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/Denis-Zhigun/javahw1/issues/3#issue-776237212)
 
